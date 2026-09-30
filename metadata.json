@@ -1,0 +1,6 @@
+{
+  "name": "TeleCloud - Telegram Cloud Drive & AI Vault",
+  "description": "Modern unlimited cloud drive powered by Telegram storage infrastructure with multi-turn Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
